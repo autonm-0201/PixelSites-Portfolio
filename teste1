@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Meu Portfólio - PixelSites</title>
+<style>
+    body {
+        background: #000;
+        color: #fff;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 40px;
+    }
+    h1 { font-size: 42px; }
+    p { font-size: 18px; color: #ccc; }
+    .card {
+        background: #111;
+        padding: 20px;
+        margin: 20px auto;
+        width: 90%;
+        max-width: 500px;
+        border-radius: 10px;
+        border: 1px solid #333;
+    }
+</style>
+</head>
+<body>
+<h1>Portfólio PixelSites</h1>
+<p>Criação de sites rápidos, modernos e responsivos.</p>
+
+<div class="card">
+    <h2>Landing Page</h2>
+    <p>Modelo profissional ideal para negócios.</p>
+</div>
+
+<div class="card">
+    <h2>Site Completo</h2>
+    <p>Com várias páginas e design exclusivo.</p>
+</div>
+
+<p>Entre em contato pelo Instagram para orçamento!</p>
+</body>
+</html>
